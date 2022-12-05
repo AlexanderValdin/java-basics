@@ -1,0 +1,8 @@
+Crea dos Arralyst, uno de Series y otro de Videojuegos, de 5 elementos cada uno.
+	Para la creacion de los objetos puedes usar distintos constructores.
+	Entrega algunos Videojuegos y Series con el método entregar().
+	Cuenta cuantos Series y Videojuegos hay entregados. Al contarlos, devuélvelos.
+	Por último, indica el Videojuego tiene más horas estimadas y la serie con mas temporadas. Muestralos en pantalla con toda su información (usa el método toString()).
+	NOTA: Los valores para la creación de los objetos debe ser solicitados por teclado al usuario. Ofrecer un menú de opciones al mismo para realizar las operaciones.
+   Crear un excepción llamada TiempoExpiradoExcepction que será arrojada por el metodo devolver si la fecha de devolución es mayor a 2 días(1 minuto).
+   
